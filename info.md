@@ -1,4 +1,7 @@
 ## Changelog
+### 0.0.13 - Add stability change
+from https://github.com/kevinvincent/ha-wyzesense/issues/189
+
 ### 0.0.12 - Move from property device_state_attributes to extra_state_attributes
 property device_state_attributes is deprecated
 
