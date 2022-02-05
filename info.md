@@ -1,4 +1,7 @@
 ## Changelog
+### 0.0.14 - Bring in some changes from wyzesense2mqtt
+https://github.com/raetha/wyzesense2mqtt
+
 ### 0.0.13 - Add stability change
 from https://github.com/kevinvincent/ha-wyzesense/issues/189
 
