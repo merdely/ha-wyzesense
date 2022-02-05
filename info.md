@@ -1,4 +1,6 @@
 ## Changelog
+### 0.0.15 - Fix breakage accidentially changing wyzesense requirement
+
 ### 0.0.14 - Bring in some changes from wyzesense2mqtt
 https://github.com/raetha/wyzesense2mqtt
 
