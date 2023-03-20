@@ -1,4 +1,6 @@
 ## Changelog
+### 0.0.17 - Fix string concatenation bug with alarm_data
+
 ### 0.0.16 - Fix string concatenation bug
 
 ### 0.0.15 - Fix breakage accidentially changing wyzesense requirement

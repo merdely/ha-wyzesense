@@ -282,8 +282,8 @@ class Dongle(object):
                 sensor_type = sensor[alarm_data[0]]
                 sensor_state = sensor["states"][alarm_data[5]]
             else:
-                sensor_type = "unknown (" + alarm_data[0] + ")"
-                sensor_state = "unknown (" + alarm_data[5] + ")"
+                sensor_type = "unknown (" + str(alarm_data[0]) + ")"
+                sensor_state = "unknown (" + str(alarm_data[5]) + ")"
             e = SensorEvent(sensor_mac, timestamp, ("alarm" if event_type == 0xA2 else "status"), (sensor_type, sensor_state, alarm_data[2], alarm_data[8]))
         elif event_type == 0xE8:
             if alarm_data[0] == 0x03:
