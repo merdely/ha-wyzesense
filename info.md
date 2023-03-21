@@ -1,4 +1,7 @@
 ## Changelog
+
+### 0.0.18 - Undo two previous changes
+
 ### 0.0.17 - Fix string concatenation bug with alarm_data
 
 ### 0.0.16 - Fix string concatenation bug
