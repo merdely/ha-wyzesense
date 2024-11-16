@@ -1,9 +1,9 @@
 {
-    "version": "0.0.18",
+    "version": "0.0.20",
     "domain": "wyzesense",
     "name": "Wyze Sense Component",
     "documentation": "https://github.com/merdely/ha-wyzesense",
-    "requirements": ["wyzesense==0.0.4","retry==0.9.2"],
+    "requirements": ["wyzesense==0.0.5","retry==0.9.2"],
     "dependencies": [],
     "codeowners": ["@merdely"],
     "iot_class": "local_push"

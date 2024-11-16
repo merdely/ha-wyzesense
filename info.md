@@ -1,5 +1,10 @@
 ## Changelog
 
+### 0.0.20 - Changes from Home Assistant
+
+- Change some constants that changed in Home Assistant
+- Use is_set() instead of isSet()
+
 ### 0.0.19 - Revert to 0.0.13
 
 ### 0.0.18 - Undo two previous changes
