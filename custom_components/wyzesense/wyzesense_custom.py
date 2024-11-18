@@ -351,7 +351,7 @@ class Dongle(object):
             try:
                 s = b""
                 while True:
-                    if self.__exit_event.is_set():
+                    if self.__exit_event.isSet():
                         break
                     
                     s += self._ReadRawHID()
