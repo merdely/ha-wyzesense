@@ -1,5 +1,7 @@
 ## Changelog
 
+### 0.0.23 - Incorporate more changes from @tggman's file
+
 ### 0.0.22 - Update to support HA changes in 2025.1
 https://github.com/kevinvincent/ha-wyzesense/issues/232#issuecomment-2543916289
 From @tggman on github
