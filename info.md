@@ -1,5 +1,9 @@
 ## Changelog
 
+### 0.0.22 - Update to support HA changes in 2025.1
+https://github.com/kevinvincent/ha-wyzesense/issues/232#issuecomment-2543916289
+From @tggman on github
+
 ### 0.0.19 - Revert to 0.0.13
 
 ### 0.0.18 - Undo two previous changes
